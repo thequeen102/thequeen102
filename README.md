@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **machine learning and AI basics**
 
-- 🤝 Discord [thequeen#1905](thequeen#1905)
+- 🤝 Discord thequeen#1905
 
 - 💬 Ask me about **automation and bots**
 
